@@ -4,6 +4,8 @@ public class TestCase002 {
 
     // added some work here
 
+    //c completed ready to merge slight different way
+
 
 
 
